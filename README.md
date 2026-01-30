@@ -15,10 +15,15 @@ intermediate, and slow-clearance categories.
 To uncover underlying clearance patterns, K-means clustering is employed based
 on AUC and half-life values. Using the Elbow Method, three optimal clusters are
 identified:
+
 ● Rapid-clearance glycans: Characterized by short half-lives and low AUC,
 indicating limited therapeutic duration.
+
+
 ● Intermediate-clearance glycans: Display moderate clearance behavior,
 balancing stability and clearance.
+
+
 ● Slow-clearance glycans: Feature extended half-lives and high AUC values,
 contributing to prolonged therapeutic effects.
 
